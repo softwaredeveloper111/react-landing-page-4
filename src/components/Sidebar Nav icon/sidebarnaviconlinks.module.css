@@ -1,0 +1,16 @@
+.navICon{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.navICon span:nth-child(2){
+  font-weight: 400;
+  font-size: 1.05rem;
+  color: white;
+}
+
+.navICon span:nth-child(1){
+  font-size: 1.3rem;
+     color: rgb(216, 31, 102)
+}
